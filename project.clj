@@ -1,4 +1,4 @@
-(defproject com.github.strojure/jmustache "1.0.0"
+(defproject com.github.strojure/jmustache "1.1.1-SNAPSHOT"
   :description "Clojure adapter to jmustache library."
   :url "https://github.com/strojure/jmustache"
   :license {:name "The MIT License" :url "http://opensource.org/licenses/MIT"}
