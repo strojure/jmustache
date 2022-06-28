@@ -9,6 +9,7 @@ Clojure adapter to [jmustache](https://github.com/samskivert/jmustache) library.
 - Fetch context data from Clojure persistent maps with keyword keys.
 - `:throw-missing?` compiler option to catch errors during development.
 - Easy declaration of mustache lambdas.
+- Fast rendering of templates.
 
 ## Usage
 
