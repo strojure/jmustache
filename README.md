@@ -121,3 +121,10 @@ Well, {{taxed-value}} dollars, after taxes.
 ;You have just won 10000 dollars!
 ;Well, 6000.0 dollars, after taxes.
 ```
+## Q&A
+
+### What's the difference to https://github.com/fhd/clostache?
+
+Java implementations offer much better performance than clostache.  
+The https://github.com/spullara/mustache.java is fast and has adapter but behaves buggy in my use cases.  
+Probably there are some feature differences between clostache and jmustache.
