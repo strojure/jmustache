@@ -5,6 +5,7 @@
 
   :dependencies [[com.samskivert/jmustache "1.15"]]
 
-  :profiles {:provided {:dependencies [[org.clojure/clojure "1.11.1"]]}}
+  :profiles {:provided {:dependencies [[org.clojure/clojure "1.11.1"]]}
+             :dev {:source-paths ["doc"]}}
 
   :deploy-repositories [["clojars" {:url "https://clojars.org/repo" :sign-releases false}]])
